@@ -1,0 +1,9 @@
+User-Agent: *
+Allow: /
+Disallow: /cart
+Disallow: /checkout
+Disallow: /order-success
+Disallow: /wishlist
+
+Host: https://charnabsh.ir
+Sitemap: https://charnabsh.ir/sitemap.xml

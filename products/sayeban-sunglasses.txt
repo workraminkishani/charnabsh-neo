@@ -1,0 +1,26 @@
+1:"$Sreact.fragment"
+2:I[7989,[],"ClientSegmentRoot"]
+3:I[9981,["481","static/chunks/481-9cdd7b7c2b8d3b78.js","417","static/chunks/417-8a61f6317c88ec9a.js","177","static/chunks/app/layout-dec817be267ebf5e.js"],"default"]
+4:I[9766,[],""]
+5:I[9567,["39","static/chunks/app/error-5e0629edd3bfc298.js"],"default"]
+6:I[8924,[],""]
+7:I[3293,["481","static/chunks/481-9cdd7b7c2b8d3b78.js","417","static/chunks/417-8a61f6317c88ec9a.js","345","static/chunks/app/not-found-e4b06454153119ad.js"],"default"]
+a:I[4431,[],"OutletBoundary"]
+c:I[5278,[],"AsyncMetadataOutlet"]
+e:I[4431,[],"ViewportBoundary"]
+10:I[4431,[],"MetadataBoundary"]
+11:"$Sreact.suspense"
+13:I[7150,[],""]
+:HL["/charnabsh-neo/_next/static/media/1abbc144918f74fd-s.p.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/charnabsh-neo/_next/static/media/8c96cc4bd2a39381-s.p.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/charnabsh-neo/_next/static/media/a069f773a181dede-s.p.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/charnabsh-neo/_next/static/media/b84cfe76f684d3e5-s.p.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/charnabsh-neo/_next/static/css/2fe52b4f32eef9a3.css","style"]
+0:{"P":null,"b":"3OkTj23n3oFpVuZHFnUgJ","p":"/charnabsh-neo","c":["","products","sayeban-sunglasses"],"i":false,"f":[[["",{"children":["products",{"children":[["slug","sayeban-sunglasses","d"],{"children":["__PAGE__",{}]}]}]},"$undefined","$undefined",true],["",["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/charnabsh-neo/_next/static/css/2fe52b4f32eef9a3.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]],["$","$L2",null,{"Component":"$3","slots":{"children":["$","$L4",null,{"parallelRouterKey":"children","error":"$5","errorStyles":[],"errorScripts":[],"template":["$","$L6",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[["$","$L7",null,{}],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]},"params":{},"promise":"$@8"}]]}],{"children":["products",["$","$1","c",{"children":[null,["$","$L4",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L6",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["slug","sayeban-sunglasses","d"],["$","$1","c",{"children":[null,["$","$L4",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L6",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":["__PAGE__",["$","$1","c",{"children":["$L9",null,["$","$La",null,{"children":["$Lb",["$","$Lc",null,{"promise":"$@d"}]]}]]}],{},null,false]},null,false]},null,false]},[["$","div","l",{"style":{"display":"flex","justifyContent":"center","alignItems":"center","height":"100vh"},"children":["$","div",null,{"children":"Loading..."}]}],[],[]],false],["$","$1","h",{"children":[null,[["$","$Le",null,{"children":"$Lf"}],["$","meta",null,{"name":"next-size-adjust","content":""}]],["$","$L10",null,{"children":["$","div",null,{"hidden":true,"children":["$","$11",null,{"fallback":null,"children":"$L12"}]}]}]]}],false]],"m":"$undefined","G":["$13",[]],"s":false,"S":true}
+8:"$0:f:0:1:1:props:children:1:props:params"
+14:I[3851,["481","static/chunks/481-9cdd7b7c2b8d3b78.js","417","static/chunks/417-8a61f6317c88ec9a.js","221","static/chunks/app/products/%5Bslug%5D/page-55dd46493e771671.js"],"default"]
+9:["$","$L14",null,{"slug":"sayeban-sunglasses"}]
+f:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
+b:null
+d:{"metadata":[["$","link","0",{"rel":"manifest","href":"/charnabsh-neo/manifest.webmanifest","crossOrigin":"$undefined"}]],"error":null,"digest":"$undefined"}
+12:"$d:metadata"
